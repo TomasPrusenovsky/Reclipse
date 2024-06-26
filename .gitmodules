@@ -1,0 +1,3 @@
+[submodule "Reclipse/Vendor/GLFW"]
+	path = Reclipse/Vendor/GLFW
+	url = git@github.com:TomasPrusenovsky/glfw.git
